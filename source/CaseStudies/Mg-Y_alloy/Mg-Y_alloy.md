@@ -38,7 +38,7 @@ A typical folder structure of DP-GEN process can be set as following:
 
 ## Preparing Files
 
-By checking the [DP library](https://dplibrary.deepmd.net/), we can find that there are some data for Mg substance. Therefore, these data are downloaded and taken as part of the inital data.
+By checking the [DP library](https://dplibrary.deepmd.net/), we can find that there are some data for Mg substance. Therefore, these data are downloaded and taken as part of the initial data.
 
 The examplory files are attached: init_bulk param.json, run param.json. machine-alo.json
 
